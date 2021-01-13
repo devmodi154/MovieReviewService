@@ -2,7 +2,7 @@
 A simple service in python for adding users and movies with the functionality of users being capable of reviewing movies.
 
 ## Directory Structure
-<img src="https://i.imgur.com/wX58lcj.png" alt="Directory structure">
+[<img src="https://i.imgur.com/wX58lcj.png" alt="Directory">]
 - Data directory includes txt files with data(in list with each element in the next line) in the following format:
     - movies.txt: <movie_name>,<year_published>,<genre> 
     - users.txt: <user_name> 
@@ -13,11 +13,11 @@ A simple service in python for adding users and movies with the functionality of
 - Main.py is the runner for a sample case for which data is loaded in the text files.
 
 ## Run
-Alter the data in text files in data/ directory.
-- Download repository.
-    `cd <repo-folder-name>`
+Alter the data in text files in data/ directory.<br/>
+- Download repository.<br/>
+    `cd <repo-folder-name>`<br/>
     `python3 Main.py`
 
 ## Test:
-Alter the data in tests/testHandler.py file -> load_data function for conducting tests.
+Alter the data in tests/testHandler.py file -> load_data function for conducting tests.<br/>
 `python3 -m tests.testHandler`
