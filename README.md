@@ -2,7 +2,7 @@
 A simple service in python for adding users and movies with the functionality of users being capable of reviewing movies.
 
 ## Directory Structure
-[<img src="https://i.imgur.com/wX58lcj.png" alt="Directory structure">]
+<img src="https://i.imgur.com/wX58lcj.png" alt="Directory structure">
 - Data directory includes txt files with data(in list with each element in the next line) in the following format:
     - movies.txt: <movie_name>,<year_published>,<genre> 
     - users.txt: <user_name> 
