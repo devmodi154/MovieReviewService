@@ -1,0 +1,15 @@
+*.pdf
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+
+# Backup files # 
+*.bak 
+
+# Python # 
+*.py[cod] 
+*$py.class 
+
